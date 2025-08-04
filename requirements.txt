@@ -1,0 +1,14 @@
+arch
+cvxpy
+matplotlib
+numpy
+pandas
+pandas-datareader
+python-dateutil
+scipy
+scikit-learn
+seaborn
+shap
+statsmodels
+tqdm
+yfinance
